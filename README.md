@@ -28,12 +28,7 @@ RAG（Retrieval-Augmented Generation）系統是一種結合檢索與生成技�
 2. Download some requirements
 
 ```bash
-pip install torch torchvision torchaudio
-pip install huggingface_hub
-pip install transformers
-pip install "accelerate>=0.26.0"
-pip install protobuf
-pip install sentencepiece
+pip install -r requirements.txt
 ```
 
 3. Type the follow command, then enter the huggingface token <a urls="https://huggingface.co/docs/hub/security-tokens">Apply Token</a>

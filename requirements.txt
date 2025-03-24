@@ -1,0 +1,22 @@
+# Core libraries
+numpy
+torch
+huggingface_hub
+transformers
+accelerate>=0.26.0
+protobuf
+sentencepiece
+
+# LangChain and integrations
+langchain
+langchain-huggingface
+
+# Text processing and embedding
+jieba
+rank_bm25
+sentence-transformers
+textract
+python-docx
+ipython
+keybert
+faiss-cpu
